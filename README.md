@@ -1,0 +1,2 @@
+# cheatsheet
+Frequently used cheats.
