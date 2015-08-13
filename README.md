@@ -2,7 +2,7 @@
 Frequently used cheats.
 
 ## vim, tmux etc.
-| task | command |
+|      | command |
 | ---- | -------:|
 |re-attach tmux session | `tmux attach-session -t [session-name]` | 
 | reload tmux config| `:source-file ~/.tmux.conf`|
