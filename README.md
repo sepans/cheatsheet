@@ -1,6 +1,11 @@
 # cheatsheet
 Frequently used cheats.
 
+## command line
+* `sudo !!`: run last command with sudo (from @addyosmani)
+* `ls -lhS`: sort All files in directory by size (from @addyosmani)
+* `qlmanage -p <file>`: open quick look file preview. Bonus: install quicklook markdown plugin to preveiw .md files
+
 ## vim, tmux etc.
 |      | command |
 | ---- | -------:|
