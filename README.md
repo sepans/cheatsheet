@@ -15,5 +15,5 @@ Frequently used cheats.
 | reload tmux config| `:source-file ~/.tmux.conf`|
 | redo vim syntax highlighting| `:syntax sync fromstart`|
 | mouse scrolling (and?) for vim| `:set mouse=a`|
-| vim live search| on: `:set hlsearch` off: `:set incsearch`|
+| vim live search| on: `:set incsearch` off: `:set lhsearch`|
 | vim reload file to get changes from outside| `:e!`|
