@@ -3,6 +3,7 @@ Frequently used cheats.
 
 ## command line
 * `sudo !!`: run last command with sudo (from @addyosmani)
+* `!!:s/filename1/filename2` run last command with filename1 replaced by filename2. BONUS: run `bind Space:magic-space` before that, or put it in ~/.bashrc to make Space after command show the result command for inspection.
 * `ls -lhS`: sort All files in directory by size (from @addyosmani)
 * `qlmanage -p <file>`: open quick look file preview. Bonus: install quicklook markdown plugin to preveiw .md files
 
