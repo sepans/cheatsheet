@@ -17,3 +17,4 @@ Frequently used cheats.
 | mouse scrolling (and?) for vim| `:set mouse=a`|
 | vim live search| on: `:set incsearch` off: `:set lhsearch`|
 | vim reload file to get changes from outside| `:e!`|
+| vim disable indentation for pasting| `:set paste`/`nopaste`|
