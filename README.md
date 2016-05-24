@@ -9,7 +9,7 @@ Frequently used cheats.
 * `qlmanage -p <file>`: open quick look file preview. Bonus: install quicklook markdown plugin to preveiw .md files
 
 ### data manipulation:
-* preview csv files: `column -s, -t < somefile.csv | less -#2 -N -S` or `sed 's/,,/, ,/g;s/,,/, ,/g' data.csv | column -s, -t` when there are empty columns (e.g. 1,2,,,,5,6)  [source](http://stackoverflow.com/questions/1875305/command-line-csv-viewer)
+* preview csv files: `column -s, -t < somefile.csv | less -#2 -N -S` or `sed 's/,,/, ,/g;s/,,/, ,/g' data.csv | column -s, -t | less -#2 -N -S` when there are empty columns (e.g. 1,2,,,,5,6)  [source](http://stackoverflow.com/questions/1875305/command-line-csv-viewer)
 
 ## vim, tmux etc.
 |      | command |
